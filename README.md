@@ -7,12 +7,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # Overarching Goals
 1. Pick from home['Toronto Area', 'Bremen Area', 'Greater Helsinki Area (incl. Tallinn)'] place to live
-2. Draw every day
-3. Write at least 1 coding blog posts per week
-4. Get better at Angular2
-5. Get better at Wordpress
-6. Learn about digital painting
-7. Be kind
+2. Find a job outside of Czech republic
+3. Draw every day
+4. Write at least 1 coding blog posts per week
+5. Get better at Angular2
+6. Get better at Wordpress
+7. Learn about digital painting
+8. Be kind
 
 # January 1, 2017
 
